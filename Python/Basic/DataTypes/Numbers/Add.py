@@ -1,3 +1,4 @@
 
 # Add Two Number
-5 + 6
+n = 5 + 6
+print(n)
