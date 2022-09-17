@@ -13,3 +13,5 @@ print( 1 <= 4 )
 print( 1 == 1 )
 # True
 
+print( 'hi' == 'bye' )
+# False
